@@ -29,9 +29,8 @@ To design and implement a structured Group Policy environment. This lab focuses 
 * **Troubleshooting:** Investigated cases where policies failed to apply by reviewing Event Viewer logs and ensuring proper DNS/DC connectivity.
 
 ## Proof of Implementation
-*(Replace the following with your actual file names)*
-* **GPO Management Console:** ![GPO Console](gpo-console.png)
-* **Policy Results (gpresult):** ![Policy Verification](gpresult-output.png)
+<img width="1900" height="877" alt="Group Policy Management" src="https://github.com/user-attachments/assets/31d1b6f0-91b6-42c6-91d3-18b392a16ccf" />
+
 
 ## Key Learnings
 * **Security Through Automation:** Learned how GPOs allow administrators to enforce security standards at scale rather than manually configuring individual workstations.
